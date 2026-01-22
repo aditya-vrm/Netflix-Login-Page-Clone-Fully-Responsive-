@@ -8,4 +8,4 @@ Modern CSS Layouts: Extensively uses Flexbox for navigation, grid systems for fo
 
 Advanced Styling: Implementation of custom SVG icons, radial/linear gradients for depth, and hover transitions for an interactive user experience.
 
-Pixel Perfect: Meticulous attention to typography, spacing, and the iconic Netflix color palette.<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/e4fef34c-b9a0-469b-9225-589a89b006c9" />
+Pixel Perfect: Meticulous attention to typography, spacing, and the iconic Netflix color palette.
