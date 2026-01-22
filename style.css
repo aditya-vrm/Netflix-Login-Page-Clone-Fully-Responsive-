@@ -10,7 +10,7 @@ body {
 }
 
 .main {
-    background-image: url(/Images/netflix\ background.jpg);
+    background-image: url(Images/netflix\ background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -524,4 +524,5 @@ footer a{
         margin-top: 50px;
     }
 }
+
 } 
